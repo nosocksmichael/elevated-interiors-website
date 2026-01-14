@@ -29,7 +29,7 @@ export default function HomePage() {
     {
       number: '01',
       title: 'Diagnose',
-      description: 'We assess your space, understand your lifestyle, and identify what's keeping it from being loveable.',
+      description: 'We assess your space, understand your lifestyle, and identify what\'s keeping it from being loveable.',
     },
     {
       number: '02',
