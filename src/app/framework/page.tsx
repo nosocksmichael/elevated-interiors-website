@@ -3,8 +3,8 @@ import Link from 'next/link'
 import CTASection from '@/components/CTASection'
 
 export const metadata: Metadata = {
-  title: 'The Loveable Spaces Framework™ | Elevated Interiors',
-  description: 'Our proven 3-step methodology for transforming tired rooms into designer-grade spaces in 1 week—without renovation chaos.',
+  title: 'The Loveable Spaces Framework(TM) | Elevated Interiors',
+  description: 'Our proven 3-step methodology for transforming tired rooms into designer-grade spaces in 1 week-without renovation chaos.',
 }
 
 export default function FrameworkPage() {
@@ -39,15 +39,15 @@ export default function FrameworkPage() {
         },
         {
           name: 'Lifestyle Discovery',
-          description: 'Deep conversation about how you live, work, and use your space. What's working, what's not.',
+          description: 'Deep conversation about how you live, work, and use your space. What is working, what is not.',
         },
         {
           name: 'Problem Identification',
-          description: 'We pinpoint exactly what's keeping your space from being loveable—and what it will take to fix it.',
+          description: 'We pinpoint exactly what is keeping your space from being loveable-and what it will take to fix it.',
         },
         {
           name: 'Budget Alignment',
-          description: 'Transparent discussion about investment levels and what's achievable within your budget.',
+          description: 'Transparent discussion about investment levels and what is achievable within your budget.',
         },
       ],
     },
@@ -66,7 +66,7 @@ export default function FrameworkPage() {
         },
         {
           name: 'Timeline Mapping',
-          description: 'Detailed schedule showing exactly what happens when. You'll know what to expect every day.',
+          description: 'Detailed schedule showing exactly what happens when. You will know what to expect every day.',
         },
         {
           name: 'Final Approval',
@@ -93,7 +93,7 @@ export default function FrameworkPage() {
         },
         {
           name: 'Reveal & Walkthrough',
-          description: 'Your transformed space is complete. We walk you through everything and ensure you're delighted.',
+          description: 'Your transformed space is complete. We walk you through everything and ensure you are delighted.',
         },
       ],
     },
@@ -132,10 +132,10 @@ export default function FrameworkPage() {
               Our Methodology
             </p>
             <h1 className="font-serif text-hero text-black mb-8 leading-tight">
-              The Loveable Spaces Framework™
+              The Loveable Spaces Framework(TM)
             </h1>
             <p className="text-xl text-soft-grey leading-relaxed">
-              A proven 3-step system for transforming tired rooms into designer-grade spaces in 1 week—without the chaos, timeline, or cost of traditional renovation.
+              A proven 3-step system for transforming tired rooms into designer-grade spaces in 1 week-without the chaos, timeline, or cost of traditional renovation.
             </p>
           </div>
         </div>
@@ -153,7 +153,7 @@ export default function FrameworkPage() {
                 Most interior transformations fail because they skip diagnosis and jump straight to decoration. They treat symptoms instead of solving root problems.
               </p>
               <p className="text-xl leading-relaxed">
-                The Loveable Spaces Framework™ ensures every transformation is strategic, systematic, and successful. We diagnose the real issues, design the right solution, then deliver flawlessly.
+                The Loveable Spaces Framework(TM) ensures every transformation is strategic, systematic, and successful. We diagnose the real issues, design the right solution, then deliver flawlessly.
               </p>
             </div>
           </div>
@@ -241,7 +241,7 @@ export default function FrameworkPage() {
             {/* Framework */}
             <div className="bg-white p-8">
               <h3 className="font-serif text-2xl text-black mb-6 text-center">
-                The Loveable Spaces Framework™
+                The Loveable Spaces Framework(TM)
               </h3>
               <ul className="space-y-4">
                 {comparison.framework.map((item) => (
@@ -280,7 +280,7 @@ export default function FrameworkPage() {
         variant="primary"
         subtitle="Ready to Experience The Framework?"
         title="Book Your Free Consultation"
-        description="See how The Loveable Spaces Framework™ can transform your space in 1 week. No obligation, no pressure—just honest answers about what's possible."
+        description="See how The Loveable Spaces Framework(TM) can transform your space in 1 week. No obligation, no pressure-just honest answers about what is possible."
         primaryButtonText="Book Free Consultation"
         primaryButtonHref="/consultation"
       />

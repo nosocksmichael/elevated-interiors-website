@@ -5,7 +5,7 @@ import Footer from '@/components/Footer'
 
 export const metadata: Metadata = {
   title: 'Elevated Interiors | Space Upscale Experts | GTA',
-  description: 'Designer-grade rooms in 1 week. No renovation required. Using The Loveable Spaces Framework™, we transform GTA homes without the chaos, timeline, or cost of traditional renovation.',
+  description: 'Designer-grade rooms in 1 week. No renovation required. Using The Loveable Spaces Framework(TM), we transform GTA homes without the chaos, timeline, or cost of traditional renovation.',
   keywords: 'interior design, space upscale, room transformation, GTA, Toronto, designer-grade, no renovation, Loveable Spaces Framework',
   authors: [{ name: 'Elevated Interiors' }],
   openGraph: {

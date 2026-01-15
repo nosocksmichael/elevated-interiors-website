@@ -4,7 +4,7 @@ import CTASection from '@/components/CTASection'
 
 export const metadata: Metadata = {
   title: 'Services | Elevated Interiors',
-  description: 'Space upscale solutions for GTA homes. Room transformations, expert painting, accent walls, and design consultations—all without traditional renovation.',
+  description: 'Space upscale solutions for GTA homes. Room transformations, expert painting, accent walls, and design consultations-all without traditional renovation.',
 }
 
 export default function ServicesPage() {
@@ -13,7 +13,7 @@ export default function ServicesPage() {
       name: 'Room Upscale',
       slug: 'room-upscale',
       tagline: 'Complete Room Transformation',
-      description: 'Transform tired spaces into designer-grade rooms without renovation chaos. Our signature service delivers complete room makeovers in 1 week using The Loveable Spaces Framework™.',
+      description: 'Transform tired spaces into designer-grade rooms without renovation chaos. Our signature service delivers complete room makeovers in 1 week using The Loveable Spaces Framework(TM).',
       features: [
         'Complete design consultation',
         'Custom transformation plan',
@@ -61,7 +61,7 @@ export default function ServicesPage() {
       name: 'Design Consultation',
       slug: 'consultation',
       tagline: 'Expert Guidance for Your Space',
-      description: 'Get clarity and direction for your space transformation. Our consultations provide expert guidance, actionable solutions, and honest advice about what's possible.',
+      description: 'Get clarity and direction for your space transformation. Our consultations provide expert guidance, actionable solutions, and honest advice about what is possible.',
       features: [
         'Space assessment',
         'Problem diagnosis',
@@ -119,7 +119,7 @@ export default function ServicesPage() {
 
                   <div className="mb-8">
                     <h3 className="font-sans font-semibold text-charcoal mb-4">
-                      What's Included:
+                      What is Included:
                     </h3>
                     <ul className="grid grid-cols-2 gap-3">
                       {service.features.map((feature) => (
@@ -180,7 +180,7 @@ export default function ServicesPage() {
               Every Service Uses The Framework
             </h2>
             <p className="text-lg text-soft-grey leading-relaxed">
-              Whether it's a complete room transformation or an accent wall, every project follows The Loveable Spaces Framework™: Diagnose. Design. Deliver.
+              Whether it is a complete room transformation or an accent wall, every project follows The Loveable Spaces Framework(TM): Diagnose. Design. Deliver.
             </p>
           </div>
           <div className="text-center">
@@ -196,7 +196,7 @@ export default function ServicesPage() {
         variant="primary"
         subtitle="Not Sure Which Service You Need?"
         title="Start With a Free Consultation"
-        description="We'll assess your space, diagnose what's needed, and recommend the right service for your goals and budget. No pressure, just honest guidance."
+        description="We will assess your space, diagnose what is needed, and recommend the right service for your goals and budget. No pressure, just honest guidance."
         primaryButtonText="Book Free Consultation"
         primaryButtonHref="/consultation"
       />

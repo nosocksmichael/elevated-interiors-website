@@ -73,7 +73,7 @@ export default function HomePage() {
               <span className="text-charcoal">No Renovation Required.</span>
             </h1>
             <p className="text-xl text-soft-grey mb-12 leading-relaxed max-w-2xl mx-auto">
-              Stop dreaming about the home you deserve. Using The Loveable Spaces Framework™, we transform GTA homes to designer grade—without the chaos, timeline, or cost of traditional renovation.
+              Stop dreaming about the home you deserve. Using The Loveable Spaces Framework(TM), we transform GTA homes to designer grade-without the chaos, timeline, or cost of traditional renovation.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Link href="/consultation" className="btn-primary">
@@ -144,7 +144,7 @@ export default function HomePage() {
             </div>
             <div className="mt-12 p-8 bg-cream rounded-sm">
               <p className="text-lg text-charcoal text-center font-medium">
-                <span className="font-serif text-xl">There's a better way.</span>
+                <span className="font-serif text-xl">There is a better way.</span>
                 <br />
                 <span className="text-soft-grey mt-2 block">
                   Designer-grade transformation. 1 week. No gutting required.
@@ -163,10 +163,10 @@ export default function HomePage() {
               Our Methodology
             </p>
             <h2 className="font-serif text-h1 text-black mb-6">
-              The Loveable Spaces Framework™
+              The Loveable Spaces Framework(TM)
             </h2>
             <p className="text-lg text-soft-grey leading-relaxed">
-              A proven system for transforming tired rooms into designer-grade spaces—without the renovation nightmare.
+              A proven system for transforming tired rooms into designer-grade spaces-without the renovation nightmare.
             </p>
           </div>
 
@@ -253,7 +253,7 @@ export default function HomePage() {
               "We needed our living room transformed before hosting family. Elevated Interiors delivered in 6 days. No renovation, no chaos, just beautiful results."
             </p>
             <p className="text-cream font-medium mt-4">
-              — Sarah M., Toronto
+              - Sarah M., Toronto
             </p>
           </div>
         </div>
@@ -264,7 +264,7 @@ export default function HomePage() {
         variant="primary"
         subtitle="Ready to Transform Your Space?"
         title="Make Your Spaces Loveable Again"
-        description="Book a free consultation and discover how The Loveable Spaces Framework can transform your home in 1 week—without the renovation nightmare."
+        description="Book a free consultation and discover how The Loveable Spaces Framework can transform your home in 1 week-without the renovation nightmare."
         primaryButtonText="Book Free Consultation"
         primaryButtonHref="/consultation"
         secondaryButtonText="See Our Work"

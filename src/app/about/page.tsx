@@ -4,7 +4,7 @@ import CTASection from '@/components/CTASection'
 
 export const metadata: Metadata = {
   title: 'About Us | Our Story | Elevated Interiors',
-  description: 'Space Upscale Experts fighting the Renovation Industrial Complex. Learn why we built The Loveable Spaces Framework™ and how we're transforming GTA homes.',
+  description: 'Space Upscale Experts fighting the Renovation Industrial Complex. Learn why we built The Loveable Spaces Framework(TM) and how we are transforming GTA homes.',
 }
 
 export default function AboutPage() {
@@ -23,7 +23,7 @@ export default function AboutPage() {
     },
     {
       title: 'Designer-Grade, Not Discount',
-      description: 'Premium materials, professional craftsmanship, exceptional results. We don't compromise on quality.',
+      description: 'Premium materials, professional craftsmanship, exceptional results. We do not compromise on quality.',
     },
   ]
 
@@ -40,7 +40,7 @@ export default function AboutPage() {
               Fighting the Renovation Industrial Complex
             </h1>
             <p className="text-xl text-soft-grey leading-relaxed">
-              We're Space Upscale Experts on a mission to transform GTA homes without the chaos, timeline, or cost of traditional renovation.
+              We are Space Upscale Experts on a mission to transform GTA homes without the chaos, timeline, or cost of traditional renovation.
             </p>
           </div>
         </div>
@@ -58,10 +58,10 @@ export default function AboutPage() {
                 Homeowners with perfectly good spaces being told they need to gut everything and start over.
               </p>
               <p className="text-xl leading-relaxed">
-                3-month timelines turning into 6 months. $20K budgets becoming $50K nightmares. Families living in construction chaos, making endless compromises, drowning in decisions they're not equipped to make.
+                3-month timelines turning into 6 months. $20K budgets becoming $50K nightmares. Families living in construction chaos, making endless compromises, drowning in decisions they are not equipped to make.
               </p>
               <p className="text-xl leading-relaxed">
-                The Renovation Industrial Complex thrives on complexity, delays, and cost overruns. Their business model depends on homeowners not understanding what's actually required to transform a space.
+                The Renovation Industrial Complex thrives on complexity, delays, and cost overruns. Their business model depends on homeowners not understanding what is actually required to transform a space.
               </p>
               <p className="text-xl leading-relaxed font-medium text-black">
                 We knew there had to be a better way.
@@ -76,14 +76,14 @@ export default function AboutPage() {
         <div className="container-custom">
           <div className="max-w-3xl mx-auto">
             <h2 className="font-serif text-h1 text-black mb-8">
-              Our Solution: The Loveable Spaces Framework™
+              Our Solution: The Loveable Spaces Framework(TM)
             </h2>
             <div className="prose prose-lg max-w-none text-soft-grey space-y-6">
               <p className="text-xl leading-relaxed">
-                We developed a systematic approach to space transformation that delivers designer-grade results in 1 week—without gutting, without months of disruption, without the traditional renovation price tag.
+                We developed a systematic approach to space transformation that delivers designer-grade results in 1 week-without gutting, without months of disruption, without the traditional renovation price tag.
               </p>
               <p className="text-xl leading-relaxed">
-                <span className="font-semibold text-black">Diagnose.</span> We assess your space and identify the real issues—not just symptoms.
+                <span className="font-semibold text-black">Diagnose.</span> We assess your space and identify the real issues-not just symptoms.
               </p>
               <p className="text-xl leading-relaxed">
                 <span className="font-semibold text-black">Design.</span> We create strategic solutions that address root problems, not cosmetic band-aids.
@@ -127,11 +127,11 @@ export default function AboutPage() {
         <div className="container-custom">
           <div className="max-w-3xl mx-auto">
             <h2 className="font-serif text-h1 text-white text-center mb-12">
-              We're Not Interior Designers
+              We are Not Interior Designers
             </h2>
             <div className="prose prose-lg max-w-none text-warm-taupe space-y-6">
               <p className="text-xl leading-relaxed">
-                We're <span className="text-white font-semibold">Space Upscale Experts</span>.
+                We are <span className="text-white font-semibold">Space Upscale Experts</span>.
               </p>
               <p className="text-xl leading-relaxed">
                 Interior designers create beautiful visions. We execute practical transformations.
@@ -140,7 +140,7 @@ export default function AboutPage() {
                 Interior designers hand you plans and mood boards. We hand you a completed, designer-grade room in 1 week.
               </p>
               <p className="text-xl leading-relaxed">
-                Interior designers work in the world of aspiration. We work in the world of reality—where you have a budget, a timeline, and a life to live while your space transforms.
+                Interior designers work in the world of aspiration. We work in the world of reality-where you have a budget, a timeline, and a life to live while your space transforms.
               </p>
             </div>
           </div>
@@ -160,7 +160,7 @@ export default function AboutPage() {
                   Homeowners Who Know Better Is Possible
                 </h3>
                 <p className="text-soft-grey leading-relaxed">
-                  You look at your space and see potential. You know it could be amazing—you just need expert guidance and execution to get there.
+                  You look at your space and see potential. You know it could be amazing-you just need expert guidance and execution to get there.
                 </p>
               </div>
 
@@ -169,7 +169,7 @@ export default function AboutPage() {
                   Families Tired of Living in "Fine"
                 </h3>
                 <p className="text-soft-grey leading-relaxed">
-                  Your rooms work, technically. But they don't feel loveable. They don't reflect who you are or how you want to live.
+                  Your rooms work, technically. But they do not feel loveable. They do not reflect who you are or how you want to live.
                 </p>
               </div>
 
@@ -178,7 +178,7 @@ export default function AboutPage() {
                   People Preparing for Life Changes
                 </h3>
                 <p className="text-soft-grey leading-relaxed">
-                  Selling your home, hosting family, starting a new chapter—you need your space to be at its best, fast.
+                  Selling your home, hosting family, starting a new chapter-you need your space to be at its best, fast.
                 </p>
               </div>
 
@@ -207,7 +207,7 @@ export default function AboutPage() {
                 We will diagnose your space honestly, design solutions strategically, and deliver results that make you proud.
               </p>
               <p className="text-xl leading-relaxed mb-6">
-                We will be transparent about pricing, realistic about timelines, and honest about what's achievable.
+                We will be transparent about pricing, realistic about timelines, and honest about what is achievable.
               </p>
               <p className="text-xl leading-relaxed mb-6">
                 We will treat your home with respect, your budget with care, and your trust with integrity.
@@ -224,7 +224,7 @@ export default function AboutPage() {
       <CTASection
         variant="primary"
         subtitle="Ready to Work With Us?"
-        title="Let's Transform Your Space"
+        title="Let us Transform Your Space"
         description="Book a free consultation and experience the difference of working with Space Upscale Experts who actually deliver."
         primaryButtonText="Book Free Consultation"
         primaryButtonHref="/consultation"

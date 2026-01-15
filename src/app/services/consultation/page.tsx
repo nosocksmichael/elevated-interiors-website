@@ -4,13 +4,13 @@ import CTASection from '@/components/CTASection'
 
 export const metadata: Metadata = {
   title: 'Design Consultation | Expert Guidance | Elevated Interiors',
-  description: 'Get clarity and direction for your space transformation. Expert guidance, actionable solutions, honest advice about what's possible.',
+  description: 'Get clarity and direction for your space transformation. Expert guidance, actionable solutions, honest advice about what is possible.',
 }
 
 export default function ConsultationPage() {
   const whatYouGet = [
     'Complete space assessment and analysis',
-    'Problem diagnosis using The Loveable Spaces Framework™',
+    'Problem diagnosis using The Loveable Spaces Framework(TM)',
     'Solution recommendations tailored to your goals',
     'Budget guidance and investment expectations',
     'Material and furniture suggestions',
@@ -26,15 +26,15 @@ export default function ConsultationPage() {
     },
     {
       scenario: 'Budget Clarity',
-      description: 'You need honest answers about what's achievable with your budget before committing.',
+      description: 'You need honest answers about what is achievable with your budget before committing.',
     },
     {
       scenario: 'Second Opinion',
-      description: 'You've received quotes or plans from others and want expert validation or alternatives.',
+      description: 'You have received quotes or plans from others and want expert validation or alternatives.',
     },
     {
       scenario: 'Decision Making',
-      description: 'You're stuck between options and need professional guidance to move forward confidently.',
+      description: 'You are stuck between options and need professional guidance to move forward confidently.',
     },
   ]
 
@@ -77,7 +77,7 @@ export default function ConsultationPage() {
                 A $500 consultation that prevents a $5,000 mistake is worth 10x the investment. Professional guidance ensures you spend money solving the right problems.
               </p>
               <p className="text-xl leading-relaxed">
-                You'll leave with clarity, confidence, and a concrete plan. No guesswork, no Pinterest paralysis, no expensive trial-and-error.
+                You will leave with clarity, confidence, and a concrete plan. No guesswork, no Pinterest paralysis, no expensive trial-and-error.
               </p>
             </div>
           </div>
@@ -89,7 +89,7 @@ export default function ConsultationPage() {
         <div className="container-custom">
           <div className="max-w-4xl mx-auto">
             <h2 className="font-serif text-h1 text-black text-center mb-12">
-              What's Included
+              What is Included
             </h2>
             <div className="grid md:grid-cols-2 gap-6">
               {whatYouGet.map((item) => (
@@ -120,7 +120,7 @@ export default function ConsultationPage() {
                     Initial Discussion (30 min)
                   </h3>
                   <p className="text-soft-grey leading-relaxed">
-                    We talk about your space, goals, frustrations, and vision. What's working, what's not, and what you hope to achieve.
+                    We talk about your space, goals, frustrations, and vision. What is working, what is not, and what you hope to achieve.
                   </p>
                 </div>
               </div>
@@ -162,7 +162,7 @@ export default function ConsultationPage() {
                     Follow-Up Support (15 min)
                   </h3>
                   <p className="text-soft-grey leading-relaxed">
-                    One follow-up call to answer questions, provide additional guidance, or discuss next steps after you've had time to process.
+                    One follow-up call to answer questions, provide additional guidance, or discuss next steps after you have had time to process.
                   </p>
                 </div>
               </div>
@@ -232,12 +232,12 @@ export default function ConsultationPage() {
         </div>
       </section>
 
-      {/* What You'll Leave With */}
+      {/* What You will Leave With */}
       <section className="bg-white section-padding">
         <div className="container-custom">
           <div className="max-w-3xl mx-auto">
             <h2 className="font-serif text-h1 text-black text-center mb-12">
-              What You'll Leave With
+              What You will Leave With
             </h2>
             <div className="space-y-6">
               <div className="bg-cream p-8 border border-warm-taupe">
@@ -272,7 +272,7 @@ export default function ConsultationPage() {
                   Clarity & Confidence
                 </h3>
                 <p className="text-soft-grey leading-relaxed">
-                  No more Pinterest paralysis or decision fatigue. You'll know exactly what to do and why.
+                  No more Pinterest paralysis or decision fatigue. You will know exactly what to do and why.
                 </p>
               </div>
             </div>
@@ -285,7 +285,7 @@ export default function ConsultationPage() {
         variant="primary"
         subtitle="Ready for Expert Guidance?"
         title="Book Your Design Consultation"
-        description="Let's diagnose your space and create a clear plan for transformation. $500 investment, credited if you proceed with services."
+        description="Let us diagnose your space and create a clear plan for transformation. $500 investment, credited if you proceed with services."
         primaryButtonText="Book Consultation"
         primaryButtonHref="/consultation"
       />

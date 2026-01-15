@@ -40,7 +40,7 @@ export default function Footer() {
               </span>
             </div>
             <p className="text-sm text-warm-taupe leading-relaxed mb-6">
-              Designer-grade rooms in 1 week. No renovation required. Using The Loveable Spaces Framework™.
+              Designer-grade rooms in 1 week. No renovation required. Using The Loveable Spaces Framework(TM).
             </p>
             <div className="flex gap-4">
               {navigation.social.map((item) => {

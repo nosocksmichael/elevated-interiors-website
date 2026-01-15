@@ -10,7 +10,7 @@ export const metadata: Metadata = {
 export default function RoomUpscalePage() {
   const whatYouGet = [
     'Complete design consultation and space assessment',
-    'Custom transformation plan using The Loveable Spaces Framework™',
+    'Custom transformation plan using The Loveable Spaces Framework(TM)',
     'Designer-grade material and furniture selection',
     'Professional painting and finishing',
     'Furniture arrangement and placement',
@@ -85,7 +85,7 @@ export default function RoomUpscalePage() {
                 You know your room could be amazing. Good bones. Good light. Good potential.
               </p>
               <p className="text-xl leading-relaxed mb-6">
-                But somehow it's just... tired. The furniture doesn't work. The colors feel off. The whole space lacks the sophistication you see in designer homes.
+                But somehow it is just... tired. The furniture does not work. The colors feel off. The whole space lacks the sophistication you see in designer homes.
               </p>
               <p className="text-xl leading-relaxed">
                 Traditional renovation would take months and cost $20K-$50K+. Room Upscale delivers designer-grade transformation in 1 week for a fraction of the cost.
@@ -100,7 +100,7 @@ export default function RoomUpscalePage() {
         <div className="container-custom">
           <div className="max-w-4xl mx-auto">
             <h2 className="font-serif text-h1 text-black text-center mb-12">
-              What's Included
+              What is Included
             </h2>
             <div className="grid md:grid-cols-2 gap-6">
               {whatYouGet.map((item) => (
@@ -234,7 +234,7 @@ export default function RoomUpscalePage() {
         variant="primary"
         subtitle="Ready to Transform Your Room?"
         title="Book Your Free Consultation"
-        description="Let's discuss your space and see if Room Upscale is right for you. No obligation, just honest conversation about what's possible."
+        description="Let us discuss your space and see if Room Upscale is right for you. No obligation, just honest conversation about what is possible."
         primaryButtonText="Book Free Consultation"
         primaryButtonHref="/consultation"
       />

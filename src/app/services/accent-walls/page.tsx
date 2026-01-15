@@ -69,13 +69,13 @@ export default function AccentWallsPage() {
             </h2>
             <div className="prose prose-lg max-w-none text-soft-grey">
               <p className="text-xl leading-relaxed mb-6">
-                A well-designed accent wall isn't decoration—it's strategic design that transforms how a space feels and functions.
+                A well-designed accent wall is not decoration-it is strategic design that transforms how a space feels and functions.
               </p>
               <p className="text-xl leading-relaxed mb-6">
-                It creates a focal point. Defines the room's purpose. Adds depth and dimension. Makes a space feel intentional instead of accidental.
+                It creates a focal point. Defines the room purpose. Adds depth and dimension. Makes a space feel intentional instead of accidental.
               </p>
               <p className="text-xl leading-relaxed">
-                Done right, it's the single most impactful change you can make to a room. Done wrong, it's just a painted wall.
+                Done right, it is the single most impactful change you can make to a room. Done wrong, it is just a painted wall.
               </p>
             </div>
           </div>
@@ -90,7 +90,7 @@ export default function AccentWallsPage() {
               Accent Wall Options
             </h2>
             <p className="text-lg text-soft-grey leading-relaxed">
-              We design and execute accent walls using various techniques—always chosen strategically for your specific space.
+              We design and execute accent walls using various techniques-always chosen strategically for your specific space.
             </p>
           </div>
           <div className="grid md:grid-cols-2 gap-8 max-w-5xl mx-auto">
@@ -149,7 +149,7 @@ export default function AccentWallsPage() {
                   2. Design & Material Choice
                 </h3>
                 <p className="text-soft-grey leading-relaxed">
-                  We recommend treatments that align with your style, budget, and the room's purpose. Color, texture, pattern—all chosen strategically.
+                  We recommend treatments that align with your style, budget, and the room purpose. Color, texture, pattern-all chosen strategically.
                 </p>
               </div>
 
@@ -202,7 +202,7 @@ export default function AccentWallsPage() {
               <p className="text-lg text-charcoal text-center leading-relaxed">
                 An accent wall delivers maximum impact for minimal investment.
                 <span className="block mt-4 font-medium">
-                  It's often the first thing people notice and remember about a space.
+                  It is often the first thing people notice and remember about a space.
                 </span>
               </p>
             </div>
@@ -233,8 +233,8 @@ export default function AccentWallsPage() {
       <CTASection
         variant="primary"
         subtitle="Ready for a Statement Wall?"
-        title="Let's Discuss Your Space"
-        description="We'll assess your room and recommend the perfect accent wall treatment for maximum impact."
+        title="Let us Discuss Your Space"
+        description="We will assess your room and recommend the perfect accent wall treatment for maximum impact."
         primaryButtonText="Get Started"
         primaryButtonHref="/consultation"
       />

@@ -45,7 +45,7 @@ export default function ConsultationForm() {
                 Thank You!
               </h1>
               <p className="text-lg text-soft-grey leading-relaxed mb-8">
-                We've received your consultation request and will be in touch within 24 hours to schedule your free consultation.
+                We have received your consultation request and will be in touch within 24 hours to schedule your free consultation.
               </p>
               <p className="text-soft-grey mb-8">
                 Check your email (including spam folder) for confirmation.
@@ -70,10 +70,10 @@ export default function ConsultationForm() {
               Book Your Free Consultation
             </p>
             <h1 className="font-serif text-hero text-black mb-8 leading-tight">
-              Let's Transform Your Space
+              Let us Transform Your Space
             </h1>
             <p className="text-xl text-soft-grey leading-relaxed">
-              Tell us about your space and we'll schedule a free consultation to discuss how The Loveable Spaces Framework™ can transform it.
+              Tell us about your space and we will schedule a free consultation to discuss how The Loveable Spaces Framework(TM) can transform it.
             </p>
           </div>
         </div>
@@ -91,7 +91,7 @@ export default function ConsultationForm() {
               <ul className="space-y-3 text-soft-grey">
                 <li className="flex items-start gap-3">
                   <span className="text-sage-green mt-1">✓</span>
-                  <span>We'll review your submission and contact you within 24 hours</span>
+                  <span>We will review your submission and contact you within 24 hours</span>
                 </li>
                 <li className="flex items-start gap-3">
                   <span className="text-sage-green mt-1">✓</span>
@@ -256,7 +256,7 @@ export default function ConsultationForm() {
                   onChange={handleChange}
                   rows={6}
                   className="w-full px-4 py-3 border border-warm-taupe bg-white text-charcoal focus:outline-none focus:border-charcoal transition-colors resize-none"
-                  placeholder="What room(s) are you looking to transform? What's currently not working about the space? What's your vision for how it should look and feel?"
+                  placeholder="What room(s) are you looking to transform? What is currently not working about the space? What is your vision for how it should look and feel?"
                 />
               </div>
 
@@ -287,7 +287,7 @@ export default function ConsultationForm() {
                   Get Expert Assessment
                 </h3>
                 <p className="text-soft-grey leading-relaxed">
-                  We'll diagnose what's keeping your space from being loveable and provide honest recommendations.
+                  We will diagnose what is keeping your space from being loveable and provide honest recommendations.
                 </p>
               </div>
 
@@ -314,7 +314,7 @@ export default function ConsultationForm() {
                   Clear Next Steps
                 </h3>
                 <p className="text-soft-grey leading-relaxed">
-                  Leave knowing exactly what's possible, what it costs, and how long it takes.
+                  Leave knowing exactly what is possible, what it costs, and how long it takes.
                 </p>
               </div>
             </div>

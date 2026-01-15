@@ -21,7 +21,7 @@ export default function PaintingPage() {
   const whyDifferent = [
     {
       title: 'Designer-Grade Color Selection',
-      description: 'We don't just paint walls—we help you choose colors that work with your lighting, furniture, and lifestyle.',
+      description: 'We do not just paint walls - we help you choose colors that work with your lighting, furniture, and lifestyle.',
     },
     {
       title: 'Premium Materials',
@@ -29,7 +29,7 @@ export default function PaintingPage() {
     },
     {
       title: 'Expert Preparation',
-      description: 'Proper prep is what separates average from exceptional. We don't skip steps, rush, or compromise.',
+      description: 'Proper prep is what separates average from exceptional. We do not skip steps, rush, or compromise.',
     },
     {
       title: 'Flawless Execution',
@@ -87,12 +87,12 @@ export default function PaintingPage() {
         </div>
       </section>
 
-      {/* What's Included */}
+      {/* What is Included */}
       <section className="bg-cream section-padding">
         <div className="container-custom">
           <div className="max-w-4xl mx-auto">
             <h2 className="font-serif text-h1 text-black text-center mb-12">
-              What's Included
+              What is Included
             </h2>
             <div className="grid md:grid-cols-2 gap-6">
               {whatYouGet.map((item) => (
@@ -214,7 +214,7 @@ export default function PaintingPage() {
         variant="primary"
         subtitle="Ready to Transform Your Space?"
         title="Get Your Free Quote"
-        description="Let's discuss your painting project and provide a transparent, detailed quote. No surprises, no pressure."
+        description="Let us discuss your painting project and provide a transparent, detailed quote. No surprises, no pressure."
         primaryButtonText="Request Quote"
         primaryButtonHref="/consultation"
       />
